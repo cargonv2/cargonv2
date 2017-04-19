@@ -1,2 +1,2 @@
 # cargonv2
-LIGHTYEARS
+LIGHTYEARS is a web document of a year-long thesis project.
